@@ -9,8 +9,8 @@ During Fall 2023 for Richard Lentz at the University of North Florida
 To layout and showcase previous coding projects I have completed
 
 ## Project Topics
-1 - Intro to Java
-2 - Input/Output
-3 - Objects & Classes
-4 - GUI
+1 - Intro to Java/n
+2 - Input/Output/n
+3 - Objects & Classes/n
+4 - GUI/n
 
