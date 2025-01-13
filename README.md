@@ -13,5 +13,4 @@ To layout and showcase previous coding projects I have completed
 1) Intro to Java
 2) Input/Output
 3) Objects & Classes
-4) GUI/
-
+4) GUI
